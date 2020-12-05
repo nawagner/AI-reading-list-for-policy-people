@@ -6,6 +6,7 @@ Where I get most of my regular information from organized by format and topic. I
     * [HackerNewsletter](https://hackernewsletter.com/)
     * [Stratechery](https://stratechery.com/)
     * [IEEE Spectrum Tech Alert](https://engage.ieee.org/IEEE-Spectrum-Newsletters-Sign-Up.html)
+    * [ChinAI](https://chinai.substack.com/)
 * Data science
     * [Data Elixir](https://dataelixir.com/)
     * [Datascience Weekly](https://www.datascienceweekly.org/)
