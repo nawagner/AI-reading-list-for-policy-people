@@ -1,5 +1,5 @@
 # My reading list
-Where I get most of my regular information from organized by format and topic. I generally spend the most time on newsletters, followed by individual blogs, and podcasts only when I drive or ride transit. There are many other great sources of information I have listened to over the years, but these are the things I at least remember skimming relatively recently. 
+Where I get most of my regular information from organized by format and topic. I generally spend the most time on newsletters, followed by individual blogs, and podcasts only when I drive or ride transit. There are many other great sources of information I have listened to over the years, but these are the things I remember at least skimming relatively recently. 
 
 # Newsletters
 * Tech
