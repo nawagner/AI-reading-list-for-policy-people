@@ -10,6 +10,7 @@ Where I get most of my regular information from organized by format and topic. I
 * Data science
     * [Data Elixir](https://dataelixir.com/)
     * [Datascience Weekly](https://www.datascienceweekly.org/)
+    * [Import AI](https://jack-clark.net/)
 * Physical science
     * [Data-Driven Materials](https://citrine.io/success/newsletters/)
     * [The Week in Physics by Physics Today](https://physics.aps.org/)
