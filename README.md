@@ -30,8 +30,10 @@ Where I get most of my regular information from organized by format and topic. I
     
 # Individual people/blogs
 * General interest
-    * [Slate Star Codex](https://slatestarcodex.com/)
+    * [Astral Codex Ten](https://astralcodexten.substack.com/)
     * [Robert Wiblin](http://www.robwiblin.com/)
+* Politics/Economics
+    * [Matt Yglesias](https://www.slowboring.com/)
 * Tech
     * [Schneier on Security](https://www.schneier.com/)
 * Physical science
