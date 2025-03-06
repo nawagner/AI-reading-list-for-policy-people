@@ -12,16 +12,13 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * BlueDot Impact focuses on educating people about transformative AI and potential catastrophic risks. They have several other courses on AI governance, economic impacts of AI, and AI alignment. The AI safety mindset in their materials largely dominated the Biden administration's approach to frontier AI.
 
 # Effects on particular sectors (you may need to root around for AI specific articles)
-* Tech Industry
-    * [Stratechery](https://stratechery.com/)
-    * [Dwarkesh Podcast](https://www.dwarkesh.com/)
-* China Policy
-    * [ChinAI](https://chinai.substack.com/)
-    * [ChinaTalk](https://www.chinatalk.media/)
 * Advanced semiconductors
     * [Semianalysis](https://semianalysis.com/)
 * Biotech
     * [In the Pipeline](https://www.science.org/blogs/pipeline)
+* China Policy
+    * [ChinAI](https://chinai.substack.com/)
+    * [ChinaTalk](https://www.chinatalk.media/)
 * Cybersecurity 
     * [Schneier on Security](https://www.schneier.com/)
 * Global Health Security and Wildlife Conservation
@@ -33,6 +30,13 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
         * Podcast on how Microsoft demonstrated machine learning-assisted material discovery, particularly in the realm of lithium-ion battery electrolytes. The host, Taylor Sparks, is generally a good person to follow here.
     * [The Future of Material Scientists in an Age of Artificial Intelligence](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202401401)
         * Short perspective on what AI could do for materials science. The rungs are generally correct, but some of the hypothesis generation tooling may come before the robotics advances.  
+* National Security
+    * [National Security Commision on AI Final Report](https://reports.nscai.gov/final-report/)
+    * [Special Competitive Studies Project](https://www.scsp.ai/)
+        * Eric Schmidt's post-NSCAI effort to convince the government to take transformative technologies seriously. They publish thought papers in addition to running free events in DC.
+* Tech Industry
+    * [Stratechery](https://stratechery.com/)
+    * [Dwarkesh Podcast](https://www.dwarkesh.com/)
     
 # If you want to be an AI developer yourself
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
