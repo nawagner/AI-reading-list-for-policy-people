@@ -46,3 +46,5 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * The steering committee contains well respected institutions like Code.org, Khan Academy, Educational Testing Service (ets), and International Society for Technology in Education (ISTE) 
 * [AI for Education](https://www.aiforeducation.io/)
     * For profit consultancy type shop helping educators adopt AI. They have many educator partnerships and a helpful blog. 
+* [MIT RAISE Initiative](https://raise.mit.edu/)
+    * Many helpful publications, resources, and events. They run a global AI hackathon too! 
