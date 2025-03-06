@@ -32,7 +32,7 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Accelerating Materials Discovery with Microsoft](https://podcasts.apple.com/us/podcast/accelerating-materials-discovery-with-microsoft/id1448663986?i=1000654914768)
         * Podcast on how Microsoft demonstrated machine learning-assisted material discovery, particularly in the realm of lithium-ion battery electrolytes. The host, Taylor Sparks, is generally a good person to follow here.
     * [The Future of Material Scientists in an Age of Artificial Intelligence](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202401401)
-        * Short perspective on what AI could do for materials science. The rungs are generally correct, but the order may not line up with reality.  
+        * Short perspective on what AI could do for materials science. The rungs are generally correct, but some of the hypothesis generation tooling may come before the robotics advances.  
     
 # If you want to be an AI developer yourself
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
