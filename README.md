@@ -1,5 +1,5 @@
-# My reading list
-This repository is intended for someone who wants to get up-to-speed with AI in a policy professional capacity. It is not intended to turn you into a full time AI system developer, but it should allow you to talk intelligently with one.
+# AI reading list
+This repository is intended for someone who wants to get up-to-speed with AI in a policy professional capacity. It is not primarily intended to turn you into a full time AI system developer, but it should allow you to talk intelligently with one.
 
 # Classes
 * [Elements of AI](https://www.elementsofai.com/)
