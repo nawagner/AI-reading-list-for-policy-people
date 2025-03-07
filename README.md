@@ -42,7 +42,13 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     * Python is the lingua franca of machine learning and AI development
 * [Deeplearning.ai](https://www.deeplearning.ai/)
-    * Many helpful technical courses that dive deep into the weeds
+    * Many helpful technical courses that dive deep into the weeds. Subscribing to the blog is highly recommended.
+* [Huyen Chip's Blog](https://huyenchip.com/blog/)
+    * Huyen is an accomplished AI industry professional and author. Her blog is great for people building production AI applications.
+* [Interconnects](https://www.interconnects.ai/)
+    * Nathan Lambert of the Allen AI Institute covers all the latest trends in AI development from a researcher's lens without the hype.
+* [Ahead of AI](https://sebastianraschka.com/)
+    * Another great researcher blog. Sebastian has been teaching machine learning with Python for over a decade.
 * If you want to understand machine learning algorithms at a technical level, you will need to be familiar with linear algebra and multivariate calculus. I do not have particular recommendations here. 
 
 # Learning how to teach AI
