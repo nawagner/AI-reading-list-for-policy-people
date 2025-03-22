@@ -58,5 +58,7 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * For profit consultancy type shop helping educators adopt AI. They have many educator partnerships and a helpful blog. 
 * [MIT RAISE Initiative](https://raise.mit.edu/)
     * Many helpful publications, resources, and events. They run a global AI hackathon too!
+* [AI4K12](https://ai4k12.org/)
+    * Their "Five big ideas in AI" framework is commonly used by K-12 educators to categorize AI concepts.
 * [EAAI Symposium on Educational Advances in Artificial Intelligence](https://eaai-conf.github.io/)
     * One of the only symposiums focused on the subject of teaching and using AI in K-postgraduate education.
