@@ -16,6 +16,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Semianalysis](https://semianalysis.com/)
 * Biotech
     * [In the Pipeline](https://www.science.org/blogs/pipeline)
+* Business
+    * [One Useful Thing](https://www.oneusefulthing.org/)  
 * China Policy
     * [ChinAI](https://chinai.substack.com/)
     * [ChinaTalk](https://www.chinatalk.media/)
