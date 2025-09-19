@@ -1,3 +1,5 @@
+<img width="2048" height="2048" alt="ai-reading-list" src="https://github.com/user-attachments/assets/1ceee82e-9793-43e5-9733-90827cdb8366" />
+
 # AI reading list
 This repository is intended for someone who wants to get up-to-speed with AI in a policy professional capacity. It is not primarily intended to turn you into a full time AI system developer, but it should allow you to talk intelligently with one.
 
