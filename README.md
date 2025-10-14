@@ -7,7 +7,7 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 * [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
     * Introductory course taught by Coursera and Google Brain cofounder Andrew Ng. Andrew is generally considered bullish on AI technology and believes catastrophic risks are overblown with applications rather than models the proper subject of regulation. 
 * [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
-    * Similar to AI for Everyone course but updated after ChatGPT and image generation models became common.
+    * Similar to AI for Everyone course but updated after ChatGPT and image generation models became common.  
 * [AI Safety: Intro to Transformative AI](https://aisafetyfundamentals.com/intro-to-tai/)
     * BlueDot Impact focuses on educating people about transformative AI and potential catastrophic risks. They have several other courses on AI governance, economic impacts of AI, and AI alignment. The AI safety mindset in their materials largely dominated the Biden administration's approach to frontier AI.
 
@@ -45,6 +45,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
        * Jasmine Sun's unique anthropological lens on the tech sector
     
 # If you want to be an AI developer yourself
+* [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
+   * Another Andrew Ng course where you build agentic AI systems that take action through iterative, multi-step workflows. 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     * Python is the lingua franca of machine learning and AI development
 * [Deeplearning.ai](https://www.deeplearning.ai/)
