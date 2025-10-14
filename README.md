@@ -38,7 +38,11 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
         * Eric Schmidt's post-NSCAI effort to convince the government to take transformative technologies seriously. They publish thought papers in addition to running free events in DC.
 * Tech Industry
     * [Stratechery](https://stratechery.com/)
+       * Ben Thompson has been analyzing the business and strategy sides of tech and media for over a decade. His conceptual frameworks and interviews are great ways to orient yourself.
     * [Dwarkesh Podcast](https://www.dwarkesh.com/)
+       * The frontier AI industry's favorite technical podcast
+    * [Jasmi.news](https://jasmi.news/)
+       * Jasmine Sun's unique anthropological lens on the tech sector
     
 # If you want to be an AI developer yourself
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
