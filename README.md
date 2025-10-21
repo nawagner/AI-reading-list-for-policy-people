@@ -15,7 +15,7 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 * Advanced semiconductors
     * [Semianalysis](https://semianalysis.com/)
     * [Asianometry](https://www.youtube.com/asianometry)
-       * YouTube channel famous for semiconductor industry explainers but the author chases many interesting rabbit holes.
+       * YouTube channel famous for semiconductor industry explainers, but the author also chases many other interesting rabbit holes.
 * Biotech
     * [In the Pipeline](https://www.science.org/blogs/pipeline)
 * Business
