@@ -14,6 +14,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 # Effects on particular sectors (you may need to root around for AI specific articles)
 * Advanced semiconductors
     * [Semianalysis](https://semianalysis.com/)
+    * [Asianometry](https://www.youtube.com/asianometry)
+       * YouTube channel famous for semiconductor industry explainers but the author chases many interesting rabbit holes.
 * Biotech
     * [In the Pipeline](https://www.science.org/blogs/pipeline)
 * Business
