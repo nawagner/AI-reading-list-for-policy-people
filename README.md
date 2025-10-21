@@ -9,7 +9,7 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 * [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
     * Similar to AI for Everyone course but updated after ChatGPT and image generation models became common.  
 * [AI Safety: Intro to Transformative AI](https://aisafetyfundamentals.com/intro-to-tai/)
-    * BlueDot Impact focuses on educating people about transformative AI and potential catastrophic risks. They have several other courses on AI governance, economic impacts of AI, and AI alignment. The AI safety mindset in their materials largely dominated the Biden administration's approach to frontier AI.
+    * BlueDot Impact focuses on educating people about transformative AI and potential catastrophic risks. They have several other courses on AI governance, economic impacts of AI, and AI alignment. The AI Safety mindset in their materials largely dominated the Biden administration's approach to frontier AI.
 
 # Effects on particular sectors (you may need to root around for AI specific articles)
 * Advanced semiconductors
@@ -31,7 +31,9 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Accelerating Materials Discovery with Microsoft](https://podcasts.apple.com/us/podcast/accelerating-materials-discovery-with-microsoft/id1448663986?i=1000654914768)
         * Podcast on how Microsoft demonstrated machine learning-assisted material discovery, particularly in the realm of lithium-ion battery electrolytes. The host, Taylor Sparks, is generally a good person to follow here.
     * [The Future of Material Scientists in an Age of Artificial Intelligence](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202401401)
-        * Short perspective on what AI could do for materials science. The rungs are generally correct, but some of the hypothesis generation tooling may come before the robotics advances.  
+        * Short perspective on what AI could do for materials science. The rungs are generally correct, but some of the hypothesis generation tooling may come before the robotics advances.
+    * [ML4Sci](https://ml4sci.substack.com/)
+        * Charles Yang is a hidden gem who has covered the application of machine learning to science for years. He is one of the top metascientists out there in my opinion.    
 * National Security
     * [National Security Commision on AI Final Report](https://reports.nscai.gov/final-report/)
     * [Special Competitive Studies Project](https://www.scsp.ai/)
@@ -43,12 +45,22 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
        * The frontier AI industry's favorite technical podcast
     * [Jasmi.news](https://jasmi.news/)
        * Jasmine Sun's unique anthropological lens on the tech sector
+
+# General AI Safety blogs
+* [Don't Worry About the Vase](https://thezvi.substack.com/)
+    * Zvi's blog. He frequently does round ups of AI-related news from Twitter and comments on hot topics. 
+* [Transformer](https://www.transformernews.ai/)
+    * Transformer is a publication about the power and politics of transformative AI with funding from Open Philanthropy, a prominent AI Safety nonprofit funder.
+ 
+# General Tech Libertarian blogs
+* [Hyperdimensional](https://www.hyperdimensional.co/)
+   * Dean Ball's blog. Dean wrote the AI Action Plan for the Trump administration, and his blog covers all aspects of governing transformative emerging technology. 
     
 # If you want to be an AI developer yourself
 * [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
    * Another Andrew Ng course where you build agentic AI systems that take action through iterative, multi-step workflows. 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-    * Python is the lingua franca of machine learning and AI development
+    * Python is the lingua franca of machine learning and AI development.
 * [Deeplearning.ai](https://www.deeplearning.ai/)
     * Many helpful technical courses that dive deep into the weeds. Subscribing to the blog is highly recommended.
 * [Huyen Chip's Blog](https://huyenchip.com/blog/)
@@ -72,3 +84,5 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * Their "Five big ideas in AI" framework is commonly used by K-12 educators to categorize AI concepts.
 * [EAAI Symposium on Educational Advances in Artificial Intelligence](https://eaai-conf.github.io/)
     * One of the only symposiums focused on the subject of teaching and using AI in K-postgraduate education.
+* [Pat Yongpradit](https://www.linkedin.com/in/patyongpradit/)
+    * Pat leads Teach AI at Code.org. He is a great sharer of healthy AI use in education and AI literacy resources.
