@@ -48,15 +48,26 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Jasmi.news](https://jasmi.news/)
        * Jasmine Sun's unique anthropological lens on the tech sector
 
-# General AI Safety blogs
+# Latest news blogs
 * [Don't Worry About the Vase](https://thezvi.substack.com/)
     * Zvi's blog. He frequently does round ups of AI-related news from Twitter and comments on hot topics. 
 * [Transformer](https://www.transformernews.ai/)
     * Transformer is a publication about the power and politics of transformative AI with funding from Open Philanthropy, a prominent AI Safety nonprofit funder.
  
-# General Tech Libertarian blogs
-* [Hyperdimensional](https://www.hyperdimensional.co/)
-   * Dean Ball's blog. Dean wrote the AI Action Plan for the Trump administration, and his blog covers all aspects of governing transformative emerging technology. 
+# How non-coders are using Claude Code / Agentic coding assistants 
+* [Dean Ball](https://www.hyperdimensional.co/p/among-the-agents)
+   * Dean Ball is an AI policy researcher. He uses Claude Code to automate invoice management, create educational simulations, analyze data, monitor an art market, and replicate papers.
+* [Lenny's Newsletter readers](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
+   * Lenny's Newsletter goes out to tech industry product managers and developers. Readers shared how they use Claude Code to clean up space on their computer, 
+   find when they are avoiding conflict from meeting transcripts, organize notes, write job descriptions, analyze competitor's ads, build presentations, and more.
+* [Claire Vo](https://x.com/clairevo/status/2008258773396136405)
+   * Claire Vo is a Product Manager who recommends Claude Code for job hunting. Specifically writing coaching notes from interview transcripts, personalizing outreach emails for hiring managers, 
+   keeping track of application success stats, creating a personal website, and running mock interviews with voice mode.
+* [Martin DeVido](https://x.com/d33v33d0/status/2006221407340867881)
+   * Martin DeVido is a developer who posted on X about using Claude Code to keep a tomato plant alive. The AI system runs every 15 minutes checking soil moisture, temperature, and light. 
+   It then adjusts LEDs, irrigation, and a heating pad to keep the plant in healthy ranges. 
+* [Learning Journey AI](https://www.learningjourneyai.com/catalog)
+   * The author's education startup. We have guides on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!  
     
 # If you want to be an AI developer yourself
 * [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
