@@ -78,8 +78,6 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
 # If you want to be an AI developer yourself
 * [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
    * Another Andrew Ng course where you build agentic AI systems that take action through iterative, multi-step workflows. 
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-    * Python is the lingua franca of machine learning and AI development.
 * [Deeplearning.ai](https://www.deeplearning.ai/)
     * Many helpful technical courses that dive deep into the weeds. Subscribing to the blog is highly recommended.
 * [Huyen Chip's Blog](https://huyenchip.com/blog/)
@@ -88,6 +86,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * Nathan Lambert of the Allen AI Institute covers all the latest trends in AI development from a researcher's lens without the hype.
 * [Ahead of AI](https://sebastianraschka.com/)
     * Another great researcher blog. Sebastian has been teaching machine learning with Python for over a decade.
+* [AI Evaluation Flash Cards](https://hamel.dev/notes/llm/evals/flashcards/?ajs_uid=699420)
+   * Evaluating modern AI systems is tricky. Hamel Husain and Shreya Shankar distill core ideas from their AI Evals course into these handy flashcards. 
 * [3Blue1Brown Deep Learning Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     * Video explainers on foundational deep learning concepts such as neural networks, gradient descent, and backpropagation along with newer topics like transformers.
 * If you want to understand machine learning algorithms at a technical level, you will need to be familiar with linear algebra and multivariate calculus. I do not have particular recommendations here. 
