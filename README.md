@@ -1,6 +1,27 @@
 # AI reading list
 This repository is intended for someone who wants to get up-to-speed with AI in a policy professional capacity. It is not primarily intended to turn you into a full time AI system developer, but it should allow you to talk intelligently with one.
 
+# How people are using Claude Code / Agentic coding assistants 
+* [Supercharging a curious researcher](https://www.hyperdimensional.co/p/among-the-agents)
+   * Dean Ball is an AI policy researcher. He uses Claude Code to automate invoice management, create educational simulations, analyze data, monitor an art market, and replicate papers.
+* [Taking care of everyday work tasks](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
+   * Lenny's Newsletter goes out to tech industry product managers and developers. Readers shared how they use Claude Code to clean up space on their computer, 
+   find when they are avoiding conflict from meeting transcripts, organize notes, write job descriptions, analyze competitor's ads, build presentations, and more.
+* [Job hunting](https://x.com/clairevo/status/2008258773396136405)
+   * Claire Vo is a Product Manager who recommends Claude Code for job hunting. Specifically writing coaching notes from interview transcripts, personalizing outreach emails for hiring managers, 
+   keeping track of application success stats, creating a personal website, and running mock interviews with voice mode.
+* [Keeping a tomato plant alive](https://x.com/d33v33d0/status/2006221407340867881)
+   * Martin DeVido is a developer who posted on X about using Claude Code to keep a tomato plant alive. The AI system runs every 15 minutes checking soil moisture, temperature, and light. 
+   It then adjusts LEDs, irrigation, and a heating pad to keep the plant in healthy ranges.
+* [Making music theory interactive](https://interactivecircleoffifths.com/)
+   * Matthew Meadows, a developer and musician, made an Interactive Circle of Fifths for musicians, students and composers in three days.
+* [Building a website for answering your wife's daily questions](https://www.linkedin.com/posts/rywigs_every-morning-my-wife-asks-me-if-the-mountains-ugcPost-7411926686906216448-DEAU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeoC-kBszrYbl0jOTxpmDLAZ5jt0eil1_w)
+   * Ryan Wigley is a product manager who built his wife a website that tells her what the current weather is in Seattle and if the mountains are visible [website link](https://rain-or-rainier.netlify.app/). 
+* [Making your own MRI data viewer](https://x.com/tobi/status/2010438500609663110)
+   * Tobi Lutke, the CEO of Shopify, was frustrated he needed a Windows-only program to look at his annual MRI data. He used Claude Code to make a html viewer tool that worked on Mac.
+* [Driving financial modeling in Excel](https://www.learningjourneyai.com/catalog)
+   * At author's education startup, we have a guide on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!
+
 # Classes
 * [Elements of AI](https://www.elementsofai.com/)
     * Free course offered by the University of Helsinki intended for general public audiences around the world.
@@ -53,21 +74,6 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * Zvi's blog. He frequently does round ups of AI-related news from Twitter and comments on hot topics. 
 * [Transformer](https://www.transformernews.ai/)
     * Transformer is a publication about the power and politics of transformative AI with funding from Open Philanthropy, a prominent AI Safety nonprofit funder.
- 
-# How non-coders are using Claude Code / Agentic coding assistants 
-* [Dean Ball](https://www.hyperdimensional.co/p/among-the-agents)
-   * Dean Ball is an AI policy researcher. He uses Claude Code to automate invoice management, create educational simulations, analyze data, monitor an art market, and replicate papers.
-* [Lenny's Newsletter readers](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
-   * Lenny's Newsletter goes out to tech industry product managers and developers. Readers shared how they use Claude Code to clean up space on their computer, 
-   find when they are avoiding conflict from meeting transcripts, organize notes, write job descriptions, analyze competitor's ads, build presentations, and more.
-* [Claire Vo](https://x.com/clairevo/status/2008258773396136405)
-   * Claire Vo is a Product Manager who recommends Claude Code for job hunting. Specifically writing coaching notes from interview transcripts, personalizing outreach emails for hiring managers, 
-   keeping track of application success stats, creating a personal website, and running mock interviews with voice mode.
-* [Martin DeVido](https://x.com/d33v33d0/status/2006221407340867881)
-   * Martin DeVido is a developer who posted on X about using Claude Code to keep a tomato plant alive. The AI system runs every 15 minutes checking soil moisture, temperature, and light. 
-   It then adjusts LEDs, irrigation, and a heating pad to keep the plant in healthy ranges. 
-* [Learning Journey AI](https://www.learningjourneyai.com/catalog)
-   * The author's education startup. We have guides on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!  
     
 # If you want to be an AI developer yourself
 * [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
