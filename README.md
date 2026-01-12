@@ -11,8 +11,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
    * Claire Vo is a Product Manager who recommends Claude Code for job hunting. Specifically writing coaching notes from interview transcripts, personalizing outreach emails for hiring managers, 
    keeping track of application success stats, creating a personal website, and running mock interviews with voice mode.
 * [Keeping a tomato plant alive](https://x.com/d33v33d0/status/2006221407340867881)
-   * Martin DeVido is a developer who posted on X about using Claude Code to keep a tomato plant alive. The AI system runs every 15 minutes checking soil moisture, temperature, and light. [Check on the plant](https://autoncorp.com/biodome/)
-   It then adjusts LEDs, irrigation, and a heating pad to keep the plant in healthy ranges.
+   * Martin DeVido is a developer who posted on X about using Claude Code to keep a tomato plant alive. The AI system runs every 15 minutes checking soil moisture, temperature, and light. 
+   It then adjusts LEDs, irrigation, and a heating pad to keep the plant in healthy ranges. [Check on the plant](https://autoncorp.com/biodome/)
 * [Making music theory interactive](https://interactivecircleoffifths.com/)
    * Matthew Meadows, a developer and musician, made an Interactive Circle of Fifths for musicians, students and composers in three days.
 * [Building a website for answering your wife's daily questions](https://www.linkedin.com/posts/rywigs_every-morning-my-wife-asks-me-if-the-mountains-ugcPost-7411926686906216448-DEAU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeoC-kBszrYbl0jOTxpmDLAZ5jt0eil1_w)
