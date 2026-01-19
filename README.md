@@ -19,6 +19,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
    * Ryan Wigley is a product manager who built his wife a website that tells her what the current weather is in Seattle and if the mountains are visible [website link](https://rain-or-rainier.netlify.app/). 
 * [Making your own MRI data viewer](https://x.com/tobi/status/2010438500609663110)
    * Tobi Lutke, the CEO of Shopify, was frustrated he needed a Windows-only program to look at his annual MRI data. He used Claude Code to make a html viewer tool that worked on Mac.
+* [Save money on ThredUp](https://www.linkedin.com/feed/update/urn:li:activity:7419105645678731264/)
+   * Abigail Haddad used Claude Code to build a Chrome extension that checks if there's a promotional price available for clothes on ThredUp and redirects if there is.
 * [Driving financial modeling in Excel](https://www.learningjourneyai.com/catalog)
    * At author's education startup, we have a guide on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!
 
