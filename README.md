@@ -21,6 +21,8 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
    * Tobi Lutke, the CEO of Shopify, was frustrated he needed a Windows-only program to look at his annual MRI data. He used Claude Code to make a html viewer tool that worked on Mac.
 * [Saving money on ThredUp](https://www.linkedin.com/feed/update/urn:li:activity:7419105645678731264/)
    * Abigail Haddad used Claude Code to build a Chrome extension that checks if there's a promotional price available for clothes on ThredUp and redirects if there is.
+* [Creating an iMessage Wrapped](https://github.com/jaswsunny/imessage-wrapped)
+   * Jasmine Sun used Claude Code to write a program that generates a beautiful, Spotify Wrapped-style analysis of your iMessage history. See your top contacts, messaging patterns, vocabulary evolution, and relationship insights—all processed locally on your Mac.
 * [Driving financial modeling in Excel](https://www.learningjourneyai.com/catalog)
    * At author's education startup, we have a guide on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!
 
