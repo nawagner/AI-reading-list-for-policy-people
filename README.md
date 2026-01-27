@@ -62,7 +62,6 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [ML4Sci](https://ml4sci.substack.com/)
         * Charles Yang is a hidden gem who has covered the application of machine learning to science for years. He is one of the top metascientists out there in my opinion.    
 * National Security
-    * [National Security Commision on AI Final Report](https://reports.nscai.gov/final-report/)
     * [Special Competitive Studies Project](https://www.scsp.ai/)
         * Eric Schmidt's post-NSCAI effort to convince the government to take transformative technologies seriously. They publish thought papers in addition to running free events in DC.
 * Tech Industry
@@ -73,11 +72,15 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Jasmi.news](https://jasmi.news/)
        * Jasmine Sun's unique anthropological lens on the tech sector
 
-# Latest news blogs
+# General blogs
 * [Don't Worry About the Vase](https://thezvi.substack.com/)
     * Zvi's blog. He frequently does round ups of AI-related news from Twitter and comments on hot topics. 
 * [Transformer](https://www.transformernews.ai/)
-    * Transformer is a publication about the power and politics of transformative AI with funding from Open Philanthropy, a prominent AI Safety nonprofit funder.
+    * Transformer is a news publication about the power and politics of transformative AI with funding from Open Philanthropy, a prominent AI Safety nonprofit funder.
+* [Dario Amodei's site](https://www.darioamodei.com)
+    * The CEO of Anthropic eloquently shares his thoughts about where AI is going publicly on his website.
+* [Hyperdimensional](https://www.hyperdimensional.co/)
+    * Dean Ball is the author of the Trump Administration's AI Action Plan and a notable conservative expert on AI technology. 
     
 # If you want to be an AI developer yourself
 * [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/)
