@@ -27,8 +27,6 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
    * At author's education startup, we have a guide on using Claude Code for financial analysis in Excel. More modules on data analysis and job hunting coming soon!
 
 # Classes
-* [Elements of AI](https://www.elementsofai.com/)
-    * Free course offered by the University of Helsinki intended for general public audiences around the world.
 * [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
     * Introductory course taught by Coursera and Google Brain cofounder Andrew Ng. Andrew is generally considered bullish on AI technology and believes catastrophic risks are overblown with applications rather than models the proper subject of regulation. 
 * [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
