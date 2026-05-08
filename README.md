@@ -127,7 +127,7 @@ A discovery-oriented master list of 38 AI newsletters worth subscribing to, grou
     * Tracker of China's AI safety and governance developments for international policy and safety researchers.
 * [China AI Bulletin](https://chinaaibulletin.substack.com/)
     * Coverage of AI development, governance, and safety in China to inform international AI governance discussion.
-* [Concurrent](https://concurrent.blog/) — afra
+* [Concurrent](https://afraw.substack.com/) — afra
     * Essays on parallel tech and cultural currents shaping Silicon Valley, China, and AI ecosystems.
 * [Interconnected](https://interconnect.substack.com/) — Kevin Xu
     * Analysis of tech, investing, geopolitics, and US-Asia relations for cross-Pacific watchers.
