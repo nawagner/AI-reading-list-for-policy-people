@@ -169,7 +169,7 @@ A discovery-oriented master list of 38 AI newsletters worth subscribing to, grou
 ## Society, Culture & Labor
 * [AI: A Guide for Thinking Humans](https://aiguide.substack.com/) — Melanie Mitchell
     * Accessible commentary on notable AI developments for intellectually curious non-specialists.
-* [Artificial Bureaucracy](https://artificialbureaucracy.io/) — Kevin Baker
+* [Artificial Bureaucracy](https://artificialbureaucracy.substack.com/) — Kevin Baker
     * History of computing, for readers interested in tech's historical context and evolution.
 * [Blood in the Machine](https://www.bloodinthemachine.com/) — Brian Merchant
     * Reporting on AI, tech, labor, and power for "everyone Silicon Valley is happening to."
