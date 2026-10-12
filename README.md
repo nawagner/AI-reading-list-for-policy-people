@@ -56,13 +56,27 @@ This repository is intended for someone who wants to get up-to-speed with AI in 
     * [Predicting poaching hotspots with PAWS](https://seas.harvard.edu/news/2020/06/preventing-poaching)
 * Materials Science
     * [Accelerating Materials Discovery with Microsoft](https://podcasts.apple.com/us/podcast/accelerating-materials-discovery-with-microsoft/id1448663986?i=1000654914768)
-        * Podcast on how Microsoft demonstrated machine learning-assisted material discovery, particularly in the realm of lithium-ion battery electrolytes. The host, Taylor Sparks, is generally a good person to follow here.
+        * Podcast on how Microsoft demonstrated machine learning-assisted material discovery, particularly in the realm of lithium-ion battery electrolytes. It is an episode of the Materialism podcast, and its co-host, [Taylor Sparks](https://www.linkedin.com/in/taylor-sparks-4ba98b30) of the University of Utah, is generally a good person to follow here. His LinkedIn has approachable commentary on materials informatics and AI, and the rest of Materialism is worth a listen too.
     * [The Future of Material Scientists in an Age of Artificial Intelligence](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202401401)
         * Short perspective on what AI could do for materials science. The rungs are generally correct, but some of the hypothesis generation tooling may come before the robotics advances.
     * [Diffuse AI](https://www.diffuseai.pub/) (formerly ML4Sci)
-        * Charles Yang is a hidden gem who has covered the application of machine learning to science for years. He is one of the top metascientists out there in my opinion.
+        * Charles Yang is a hidden gem who has covered the application of machine learning to science for years. He is one of the top metascientists out there in my opinion. He is now at Anthropic, and on [LinkedIn](https://www.linkedin.com/in/charlesxjyang) he shares his views on AI for science policy and how frontier AI labs approach scientific research.
     * [Shalini's Substack](https://aiformaterials.substack.com/)
         * Shalini Sharma writes on AI applications in materials science.
+    * [Bryce Meredig](https://www.linkedin.com/in/bmeredig)
+        * Bryce cofounded Citrine Informatics and gives a founder's view of materials informatics, including what it takes to turn ML for materials into a working business.
+    * [Ben Blaiszik](https://www.linkedin.com/in/benblaiszik)
+        * Ben is at Argonne National Laboratory and posts a steady stream of new AI-for-science papers and tools, plus the materials and chemistry LLM hackathons he helps run. He is also active on Bluesky.
+    * [John Gregoire](https://www.linkedin.com/in/john-m-gregoire)
+        * John is at Lila Sciences and is a good follow for autonomous labs and AI-driven experimentation. That work builds on the high-throughput materials discovery he led at Caltech.
+    * [James "Jim" Warren](https://www.linkedin.com/in/drjamesawarren)
+        * Jim is at NIST and is the government lead for the Materials Genome Initiative, so his posts show where federal materials data efforts are heading.
+    * [Kristin Persson](https://www.linkedin.com/in/kristin-persson-bb920918)
+        * Kristin is at Berkeley Lab and UC Berkeley, where she leads the Materials Project. She shares its new data releases and tools, which much of the field builds on.
+    * [Rama Vasudevan](https://www.linkedin.com/in/rama-vasudevan-367b1052)
+        * Rama is at Oak Ridge National Laboratory and covers machine learning applied to microscopy and autonomous experiments at ORNL's Center for Nanophase Materials Sciences.
+    * [Gilad Kusne](https://www.linkedin.com/in/gilad-kusne-64a6814)
+        * Gilad is at the University of Maryland and NIST and covers autonomous materials discovery and self-driving labs, including low-cost versions his group builds for teaching.
 * National Security
     * [Special Competitive Studies Project](https://www.scsp.ai/)
         * Eric Schmidt's post-NSCAI effort to convince the government to take transformative technologies seriously. They publish thought papers in addition to running free events in DC.
